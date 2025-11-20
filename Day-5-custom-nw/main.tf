@@ -2,7 +2,7 @@
 resource "aws_vpc" "name" {
     cidr_block = "10.0.0.0/16"
     tags = {
-        Name = "dev-1"
+        Name = "dev-1111"
     }
   
 }
